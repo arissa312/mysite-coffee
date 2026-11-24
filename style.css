@@ -1,0 +1,22 @@
+body {
+  font-family: Georgia, serif;     /* a classic book-style font, cozy like a café menu */
+  background-color: #f5ede1;       /* light cream, like milk foam */
+  color: #3b2a20;                  /* dark coffee-brown text */
+  max-width: 700px;                /* keeps lines from getting too long on wide screens */
+  margin: 40px auto;               /* space at top and bottom; "auto" centers the page */
+  padding: 0 20px;                 /* breathing room on the left and right */
+  line-height: 1.6;                /* more space between lines, easier to read */
+}
+
+h1 {
+  color: #6f4e37;                  /* "coffee brown" for your heading */
+}
+
+img {
+  max-width: 100%;                 /* stops your big infographic from spilling off the page */
+  border-radius: 8px;              /* slightly rounded corners */
+}
+
+a {
+  color: #a0522d;                  /* reddish-brown links, so they stand out */
+}
